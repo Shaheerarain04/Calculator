@@ -1,0 +1,44 @@
+body{
+    background-color: cadetblue;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.d1{
+    background-color:rgba(20, 173, 211, 0.568)
+
+    
+}
+.d1:hover{
+    background-color: rgba(182, 34, 196, 0.5);
+}
+.d2{
+    font-family: serif;
+    color:rgba(97, 11, 138, 0.473);
+}
+.d3{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(4, 94, 79);
+    text-align: center;
+
+}
+.d4{
+    background-color: rgba(211, 142, 15, 0.733);
+width: 40px;
+
+}
+.d5{
+    background-color: rgba(91, 103, 156, 0.384);
+    width: 40px;
+}
+.d6{
+    background-color: rgba(194, 194, 10, 0.322);
+    width: 40px;
+    
+}
+.d7{
+    background-color: rgba(14, 122, 14, 0.527);
+    width: 40px;
+}
